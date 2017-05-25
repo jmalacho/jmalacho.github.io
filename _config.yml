@@ -1,4 +1,17 @@
-title: Jonathan Malachowski's Blog
-description: Playing with jekyll on github.io
-theme: jekyll-theme-cayman
+# Setup
+title:        Don't Panic Blog
+tagline:      Cayman + Jekyll on Github pages
+baseurl:      ""
+paginate:     1
 
+# About/contact
+author:
+  name:       Jonathan Malachowski
+  url:        http://jmalacho.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
