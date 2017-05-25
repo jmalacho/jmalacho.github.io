@@ -1,2 +1,0 @@
-# jmalacho.github.io
-Blog
