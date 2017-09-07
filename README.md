@@ -1,6 +1,8 @@
 # [ Direct Link ](https://jmalacho.github.io/)
 # Future Ideas
-* Securing Docker Login
+* Securing Docker Login & Maven
+* Netatalk Setup
+* Reverse Proxying Plex
 
 # References
 * [Jekyll Main site](https://jekyllrb.com/)
