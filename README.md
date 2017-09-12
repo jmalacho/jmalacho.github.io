@@ -3,6 +3,7 @@
 * Securing Docker Login & Maven
 * Netatalk Setup
 * Reverse Proxying Plex
+* [Chef+Docker](https://github.com/chef/chef-provisioning-docker)
 
 # References
 * [Jekyll Main site](https://jekyllrb.com/)
